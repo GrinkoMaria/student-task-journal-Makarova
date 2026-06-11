@@ -11,5 +11,7 @@
 4. docs: add report and test notes
 5. chore: add gitignore
 
+Ссылка на Git Hub:
+https://github.com/GrinkoMaria/student-task-journal-Makarova
 ## Что получилось
 Создан проект Student Task Journal — консольное приложение для вывода списка учебных задач. В проекте есть папки для кода, данных, документации и тестов. Настроен Git, сделаны коммиты.
